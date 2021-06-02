@@ -1,4 +1,4 @@
-## Olá galerinha! Ee sou João Marcos 
+## Olá galerinha! Eu sou João Marcos 
  <div>
   <a href="https://github.com/JoaoMarcos160">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarcos160&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
