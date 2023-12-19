@@ -14,7 +14,7 @@ I'm a passionate software developer with expertise in a variety of technologies.
 I love diving into complex problems and crafting solutions using cutting-edge technologies. Whether it's building scalable backend systems with NestJS, creating dynamic user interfaces with Angular, or designing robust applications with Java, I enjoy every aspect of software development.
 
 ## Get in Touch
-Let's connect and collaborate on exciting projects! Feel free to reach out to me via [email](mailto:joaomarcostomaz70@gmail.com) or connect on [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/joao-marcos-tomaz-dos-santos/)).
+Let's connect and collaborate on exciting projects! Feel free to reach out to me via [email](mailto:joaomarcostomaz70@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/joao-marcos-tomaz-dos-santos/).
 
 Looking forward to exploring new opportunities and contributing to innovative projects!
 
